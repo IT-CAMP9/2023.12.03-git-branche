@@ -13,5 +13,7 @@ public class App {
         System.out.println("Kolejna nowa rzecz !!");
 
         System.out.println("Juz ostatnia rzecz !!");
+
+        System.out.println("Nowa linijka w masterze !!");
     }
 }
