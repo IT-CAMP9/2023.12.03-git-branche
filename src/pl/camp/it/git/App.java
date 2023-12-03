@@ -7,5 +7,7 @@ public class App {
         System.out.println("Kolejna linia !");
 
         System.out.println("Cos w nowym branchu !!!");
+
+        System.out.println("Nowa linijka w masterze !!");
     }
 }
