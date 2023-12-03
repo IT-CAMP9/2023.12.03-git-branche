@@ -5,5 +5,7 @@ public class App {
         System.out.println("pierwsza linia !!");
 
         System.out.println("Kolejna linia !");
+
+        System.out.println("Cos w nowym branchu !!!");
     }
 }
