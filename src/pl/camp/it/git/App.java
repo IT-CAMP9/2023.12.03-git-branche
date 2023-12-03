@@ -15,5 +15,7 @@ public class App {
         System.out.println("Juz ostatnia rzecz !!");
 
         System.out.println("Nowa linijka w masterze !!");
+
+        System.out.println("Linijka w feature branchu !!");
     }
 }
