@@ -9,5 +9,7 @@ public class App {
         System.out.println("Nowa linijka w masterze !!");
 
         System.out.println("Nowe rzeczy !!");
+
+        System.out.println("Kolejna nowa rzecz !!");
     }
 }
